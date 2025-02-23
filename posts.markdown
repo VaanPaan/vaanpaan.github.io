@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 所有文章
+order: 2
 permalink: /articles/
 ---
 
